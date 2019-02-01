@@ -1,4 +1,4 @@
-*{outline: 1px solid red}
+
 
 .bg-1{
 background-image: url("benjamin-voros-575800-unsplash.jpg");
@@ -22,9 +22,7 @@ background-repeat: no-repeat;
 background-size: cover
 }
 
-.no-gutters{
-  margin: 0;
-}
+
 
 .bg-4{
   background-color: gray
